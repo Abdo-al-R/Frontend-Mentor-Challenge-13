@@ -435,13 +435,13 @@ input[type="range"]::-webkit-slider-thumb {
         font-size: 0.875rem;
     }
     .GB-left{
-      width: 150px;
+      width: 130px;
       height: 60px;
-      top: 80%;
+      top: 85%;
       left: 50%;
       transform: translate(-50%);
       border-radius: 10px;
-      font-size: 2.5rem;
+      font-size: 2.2rem;
     }
     .GB-left::after{
         display: none;
